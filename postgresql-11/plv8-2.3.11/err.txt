@@ -1,0 +1,8 @@
+/usr/bin/install: cannot stat 'plv8-2.3.11.so': No such file or directory
+/usr/bin/install: cannot stat './/plv8.control': No such file or directory
+/usr/bin/install: cannot stat './/plv8.control': No such file or directory
+/usr/bin/install: cannot stat './/plv8--2.3.11.sql': No such file or directory
+/usr/bin/install: cannot stat './/plcoffee.control': No such file or directory
+/usr/bin/install: cannot stat './/plcoffee--2.3.11.sql': No such file or directory
+/usr/bin/install: cannot stat './/plls.control': No such file or directory
+/usr/bin/install: cannot stat './/plls--2.3.11.sql': No such file or directory
