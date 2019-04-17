@@ -4,7 +4,6 @@ set -e
 set -o pipefail
 
 echo "installing plv8 binnnnnnnnnnnnnnnnaries!..................................."
-echo "installing plv8 binnnnnnnnnnnnnnnnaries!..................................."
 pwd
 
 
